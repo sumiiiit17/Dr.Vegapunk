@@ -38,6 +38,4 @@ println(z.reverse())
 def t = []
 t = z.split('m')
  for(def val : t)
- {
-    println(val)
- }
+ println(val)
