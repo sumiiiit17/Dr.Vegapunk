@@ -1,0 +1,18 @@
+<bookstore>
+    <book category="fiction">
+        <title>Groovy in Action</title>
+        <author>Dierk Koenig</author>
+    </book>
+    <book category="programming">
+        <title>Learning Groovy</title>
+        <author>Adam L. Davis</author>
+    </book>
+    <book category="programming">
+        <title>Programming Groovy</title>
+        <author>Venkat Subramaniam</author>
+    </book>
+    <book category="fiction">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+    </book>
+</bookstore>
